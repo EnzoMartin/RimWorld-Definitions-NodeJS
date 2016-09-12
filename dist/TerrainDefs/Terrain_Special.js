@@ -1,0 +1,1 @@
+module.exports={"Defs":{"TerrainDef":{"defName":"Underwall","label":"underwall","texturePath":"Terrain/Surfaces/Underwall","EdgeType":"Hard","RenderPrecedence":0,"Fertility":0}}}

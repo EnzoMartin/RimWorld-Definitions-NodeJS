@@ -1,0 +1,1 @@
+module.exports={Jobs_Animal:require('./Jobs_Animal'),Jobs_Gatherings:require('./Jobs_Gatherings'),Jobs_Joy:require('./Jobs_Joy'),Jobs_Misc:require('./Jobs_Misc'),Jobs_Work:require('./Jobs_Work')};

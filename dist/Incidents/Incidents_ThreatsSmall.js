@@ -1,0 +1,1 @@
+module.exports={"Defs":{"IncidentDef":{"defName":"AnimalInsanitySingle","label":"single animal insanity","workerClass":"IncidentWorker_AnimalInsanitySingle","baseChance":5,"minRefireDays":2,"category":"ThreatSmall"}}}

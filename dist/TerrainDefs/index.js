@@ -1,0 +1,1 @@
+module.exports={Terrain_Floors:require('./Terrain_Floors'),Terrain_FloorsStoneTile:require('./Terrain_FloorsStoneTile'),Terrain_Natural:require('./Terrain_Natural'),Terrain_Special:require('./Terrain_Special'),Terrain_Water:require('./Terrain_Water')};

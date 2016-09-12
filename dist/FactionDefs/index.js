@@ -1,0 +1,1 @@
+module.exports={Factions_Hidden:require('./Factions_Hidden'),Factions_Misc:require('./Factions_Misc'),Factions_Player:require('./Factions_Player')};

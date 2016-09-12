@@ -1,0 +1,1 @@
+module.exports={"SongDefs":{"SongDef":{"defName":"EndCreditsSong","playOnMap":false,"clipPath":"Songs/Misc/End_Credits_Song","volume":1.05}}}

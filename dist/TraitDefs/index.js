@@ -1,0 +1,1 @@
+module.exports={Traits_Singular:require('./Traits_Singular'),Traits_Spectrum:require('./Traits_Spectrum')};

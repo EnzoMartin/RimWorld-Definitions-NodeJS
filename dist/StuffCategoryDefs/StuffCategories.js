@@ -1,0 +1,1 @@
+module.exports={"Defs":{"StuffCategoryDef":[{"defName":"Metallic","label":"metallic"},{"defName":"Woody","label":"woody"},{"defName":"Stony","label":"stony"},{"defName":"Fabric","label":"fabric"},{"defName":"Leathery","label":"leathery"}]}}

@@ -1,0 +1,1 @@
+module.exports={"ThinkTrees":{"ThinkTreeDef":{"defName":"Mechanoid","thinkRoot":{"$":{"Class":"ThinkNode_Priority"},"subNodes":{"li":[{"$":{"Class":"ThinkNode_Subtree"},"treeDef":"Downed"},{"$":{"Class":"ThinkNode_Subtree"},"treeDef":"LordDuty"},{"$":{"Class":"JobGiver_WanderAnywhere"},"maxDanger":"Deadly"},{"$":{"Class":"JobGiver_IdleError"}}]}}}}}

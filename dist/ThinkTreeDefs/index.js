@@ -1,0 +1,1 @@
+module.exports={Animal:require('./Animal'),Humanlike:require('./Humanlike'),Mechanoid:require('./Mechanoid'),SubTrees_Duty:require('./SubTrees_Duty'),SubTrees_Misc:require('./SubTrees_Misc')};

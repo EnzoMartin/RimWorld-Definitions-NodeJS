@@ -1,0 +1,1 @@
+module.exports={HistoryAutoRecorderGroups:require('./HistoryAutoRecorderGroups'),HistoryAutoRecorders:require('./HistoryAutoRecorders')};

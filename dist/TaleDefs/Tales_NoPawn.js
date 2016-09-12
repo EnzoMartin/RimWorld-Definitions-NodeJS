@@ -1,0 +1,1 @@
+module.exports={"Defs":{"TaleDef":{"defName":"RaidArrived","label":"raid arrived","taleClass":"Tale","type":"PermanentHistorical","usableForArt":false,"historyGraphColor":"(0.8, 0.45, 0.45)"}}}

@@ -1,0 +1,1 @@
+module.exports={HediffGiverSets:require('./HediffGiverSets')};

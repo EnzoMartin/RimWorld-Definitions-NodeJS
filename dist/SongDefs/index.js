@@ -1,0 +1,1 @@
+module.exports={Songs_Entry:require('./Songs_Entry'),Songs_Gameplay:require('./Songs_Gameplay'),Songs_Misc:require('./Songs_Misc'),Songs_Tension:require('./Songs_Tension')};

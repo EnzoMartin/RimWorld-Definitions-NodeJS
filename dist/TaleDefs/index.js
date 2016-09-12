@@ -1,0 +1,1 @@
+module.exports={Tales_DoublePawn:require('./Tales_DoublePawn'),Tales_DoublePawn_Relationships:require('./Tales_DoublePawn_Relationships'),Tales_NoPawn:require('./Tales_NoPawn'),Tales_SinglePawn:require('./Tales_SinglePawn')};

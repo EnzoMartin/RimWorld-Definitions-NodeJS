@@ -1,0 +1,1 @@
+module.exports={Scenarios_Classic:require('./Scenarios_Classic'),Scenarios_Special:require('./Scenarios_Special'),ScenParts_Fixed:require('./ScenParts_Fixed'),ScenParts_Various:require('./ScenParts_Various')};

@@ -1,0 +1,1 @@
+module.exports={Biomes_Arid:require('./Biomes_Arid'),Biomes_Cold:require('./Biomes_Cold'),Biomes_Moderate:require('./Biomes_Moderate')};

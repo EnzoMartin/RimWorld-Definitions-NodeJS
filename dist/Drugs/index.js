@@ -1,0 +1,1 @@
+module.exports={Alcohol_Beer:require('./Alcohol_Beer'),DrugBases:require('./DrugBases'),GoJuice:require('./GoJuice'),Luciferium:require('./Luciferium'),MalariBlock:require('./MalariBlock'),Psychite_Flake:require('./Psychite_Flake'),Psychite_Yayo:require('./Psychite_Yayo'),Smokeleaf:require('./Smokeleaf'),WakeUp:require('./WakeUp')};

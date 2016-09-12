@@ -1,0 +1,1 @@
+module.exports={"Defs":{"TimeAssignmentDef":[{"defName":"Anything","label":"anything","color":"(114,114,114)"},{"defName":"Work","label":"work","color":"(107, 107, 52)","allowRest":false,"allowJoy":false},{"defName":"Joy","label":"joy","color":"(115, 90, 130)"},{"defName":"Sleep","label":"sleep","color":"(51,51,127)"}]}}

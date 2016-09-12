@@ -1,0 +1,28 @@
+{
+  "name": "rimworld-definitions-nodejs",
+  "version": "0.15.1284",
+  "description": "RimWorld Definitions XML to JS parser",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/EnzoMartin/RimWorld-Definitions-NodeJS.git"
+  },
+  "license": "MIT",
+  "author": "Enzo Martin <enzo.r.martin@gmail.com>",
+  "contributors": [
+    "Enzo Martin <enzo.r.martin@gmail.com>"
+  ],
+  "bugs": {
+    "url": "https://github.com/EnzoMartin/RimWorld-Definitions-NodeJS/issues"
+  },
+  "engines": {
+    "node": ">=6",
+    "npm": ">=3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "rimworld-definitions-parser": "^1.0.2"
+  }
+}

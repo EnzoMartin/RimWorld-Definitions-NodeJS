@@ -1,0 +1,1 @@
+module.exports={"SongDefs":{"SongDef":{"defName":"EntrySong","playOnMap":false,"clipPath":"Songs/Entry/Entry_Ambience_Full","volume":0.9}}}

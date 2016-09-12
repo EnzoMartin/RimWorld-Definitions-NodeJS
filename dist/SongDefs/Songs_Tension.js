@@ -1,0 +1,1 @@
+module.exports={"Defs":{"SongDef":[{"clipPath":"Songs/Tension/Here_It_Comes","volume":1,"tense":true},{"clipPath":"Songs/Tension/Close_The_Gates","volume":1,"tense":true},{"clipPath":"Songs/Tension/Riding_Out","volume":0.7,"tense":true},{"clipPath":"Songs/Tension/Dont_Freeze_Up","volume":1,"tense":true},{"clipPath":"Songs/Tension/Chaos_Bringer","volume":1,"tense":true}]}}

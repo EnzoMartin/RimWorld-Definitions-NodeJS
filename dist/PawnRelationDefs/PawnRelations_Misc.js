@@ -1,0 +1,1 @@
+module.exports={"PawnRelationDefs":{"PawnRelationDef":{"defName":"Bond","label":"bond","importance":85,"diedThought":"BondedAnimalDied","soldThought":"SoldMyBondedAnimal","opinionOffset":50,"implied":false,"reflexive":true}}}

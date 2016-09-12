@@ -1,0 +1,1 @@
+module.exports={ThingCategories:require('./ThingCategories')};

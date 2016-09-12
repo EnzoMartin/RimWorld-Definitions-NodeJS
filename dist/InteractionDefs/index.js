@@ -1,0 +1,1 @@
+module.exports={Interactions_Animal:require('./Interactions_Animal'),Interactions_Directed:require('./Interactions_Directed'),Interactions_Romance:require('./Interactions_Romance'),Interactions_Social:require('./Interactions_Social')};

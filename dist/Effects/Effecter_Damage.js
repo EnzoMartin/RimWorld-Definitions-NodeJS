@@ -1,0 +1,1 @@
+module.exports={"EffecterDefs":{"EffecterDef":{"defName":"ArmorDeflect","children":{"li":{"subEffecterClass":"SubEffecter_SprayerTriggered","moteDef":"Mote_SparkFlash","positionLerpFactor":0.6,"ChancePerTick":0.2,"scale":{"min":2.5,"max":4.5}}}}}}

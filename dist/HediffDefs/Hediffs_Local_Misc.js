@@ -1,0 +1,1 @@
+module.exports={"Defs":{"HediffDef":{"$":{"ParentName":"DiseaseBase"},"defName":"TraumaSavant","hediffClass":"HediffWithComps","label":"trauma savant","stages":{"li":{"opinionOfOthersFactor":0,"setMinPartEfficiency":1,"capMods":{"li":[{"capacity":"Talking","setMax":0},{"capacity":"Hearing","setMax":0},{"capacity":"Manipulation","offset":0.5}]}}}}}}

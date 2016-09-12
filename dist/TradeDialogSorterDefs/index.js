@@ -1,0 +1,1 @@
+module.exports={TradeDialogSorters:require('./TradeDialogSorters')};

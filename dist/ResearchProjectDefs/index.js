@@ -1,0 +1,1 @@
+module.exports={ResearchProjects_Tier1_Misc:require('./ResearchProjects_Tier1_Misc'),ResearchProjects_Tier2_Misc:require('./ResearchProjects_Tier2_Misc'),ResearchProjects_Tier3_Misc:require('./ResearchProjects_Tier3_Misc'),ResearchProjects_Tier4_Misc:require('./ResearchProjects_Tier4_Misc'),ResearchProjects_Tier4_Ship:require('./ResearchProjects_Tier4_Ship')};
